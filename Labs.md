@@ -34,3 +34,11 @@
 
 <img width="628" alt="Снимок экрана 2023-04-27 в 22 03 51" src="https://user-images.githubusercontent.com/113594620/234965940-939066d1-d1c3-48d2-9225-6265059738b2.png">
 
+
+# Task 6
+
+<img width="633" alt="Снимок экрана 2023-04-27 в 22 20 27" src="https://user-images.githubusercontent.com/113594620/234969456-3a0ef3b4-7de9-4ca6-8ee9-831b9a3ff538.png">
+
+<img width="618" alt="Снимок экрана 2023-04-27 в 22 21 03" src="https://user-images.githubusercontent.com/113594620/234969582-3b6b5bff-1fbb-4b17-900c-ba82703c22f7.png">
+
+
