@@ -77,3 +77,13 @@
 
 Вариант 4
 
+# Task 13
+
+<img width="555" alt="Снимок экрана 2023-04-27 в 23 36 34" src="https://user-images.githubusercontent.com/113594620/234985043-774e9290-79c9-40ad-9420-fa464e7e3036.png">
+
+
+# Task 14
+
+<img width="517" alt="Снимок экрана 2023-04-27 в 23 54 50" src="https://user-images.githubusercontent.com/113594620/234989053-44a25f7c-dafd-497f-8b9c-05ef492e4f44.png">
+
+
